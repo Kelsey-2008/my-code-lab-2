@@ -1,0 +1,23 @@
+
+[
+	{"Name": "Snickers", "Profit": 2.3, "Year": 20, "Candy": "Snickers"},
+	{"Name": "Snickers", "Profit": 4.5, "Year": 21, "Candy": "Snickers"},
+	{"Name": "Snickers", "Profit": 5.6, "Year": 22, "Candy": "Snickers"},
+	{"Name": "Snickers", "Profit": 5, "Year": 23, "Candy": "Snickers"},
+	{"Name": "Snickers", "Profit": 5, "Year": 24, "Candy": "Snickers"},
+	{"Name": "Snickers", "Profit": 3.7, "Year": 25, "Candy": "Snickers"},
+
+	{"Name": "Reese Cups", "Profit": 2.5, "Year": 20, "Candy": "Reese Cups"},
+	{"Name": "Reese Cups", "Profit": 2.3, "Year": 21, "Candy": "Reese Cups"},
+	{"Name": "Reese Cups", "Profit": 4.2, "Year": 22, "Candy": "Reese Cups"},
+	{"Name": "Reese Cups", "Profit": 3, "Year": 23, "Candy": "Reese Cups"},
+	{"Name": "Reese Cups", "Profit": 4, "Year": 24, "Candy": "Reese Cups"},
+	{"Name": "Reese Cups", "Profit": 3.5, "Year": 25, "Candy": "Reese Cups"},
+	
+	{"Name": "Hershey Kisses", "Profit": 2.5, "Year": 20, "Candy": "Hershey Kisses"},
+	{"Name": "Hershey Kisses", "Profit": 2.9, "Year": 21, "Candy": "Hershey Kisses"},
+	{"Name": "Hershey Kisses", "Profit": 3, "Year": 22, "Candy": "Hershey Kisses"},
+	{"Name": "Hershey Kisses", "Profit": 2.3, "Year": 23, "Candy": "Hershey Kisses"},
+	{"Name": "Hershey Kisses", "Profit": 3.3, "Year": 24, "Candy": "Hershey Kisses"},
+	{"Name": "Hershey Kisses", "Profit": 2.8, "Year": 25, "Candy": "Hershey Kisses"}
+]
