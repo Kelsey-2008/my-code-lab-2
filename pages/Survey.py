@@ -41,7 +41,7 @@ with st.form("survey_form"):
 
 
 
-final_info = open(r"C:\Users\groov\OneDrive\Documents\Lab02\Lab02\data.csv", "r")
+final_info = open("data.csv", "r")
 reader = csv.reader(final_info)
 myDict = {}
 for row in reader:
@@ -79,7 +79,7 @@ if 'Count' not in st.session_state:
 
 
 
-final_info = open(r"C:\Users\groov\OneDrive\Documents\Lab02\Lab02\data.csv", "r")
+final_info = open("data.csv", "r")
 reader = csv.reader(final_info)
 myPercent = {"candy_names":[], "candy_amount":[]}
 count = 0
@@ -101,7 +101,8 @@ st.plotly_chart(fig)
 final_info.close()
 
 
-final_info = open(r"C:\Users\groov\OneDrive\Documents\Lab02\Lab02\data.csv", "r")
+
+final_info = open("data.csv", "r")
 reader = csv.reader(final_info)
 numbers = []
 for row in reader:
